@@ -19,7 +19,7 @@ Everyone uses baby talk, there is no exception for that.
 - Num num
 - Dum dum
 
-## Category No. 3
+## Category No. 3: Partial Duplications
 - Teensy-weensy
 - Puppy-wuppy
 - Binkie-winkie
