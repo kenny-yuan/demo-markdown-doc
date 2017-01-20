@@ -9,7 +9,7 @@ Everyone uses baby talk, there is no exception for that.
 - Doggy
 
 
-## Category No. 2
+## Category No. 2: Reduplication
 - Poo poo
 - Wee wee
 - Pee pee
